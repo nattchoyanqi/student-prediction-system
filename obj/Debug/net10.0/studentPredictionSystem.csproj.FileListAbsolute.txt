@@ -1,0 +1,14 @@
+D:\Documents\vscode101\C# notes\studentPredictionSystem\bin\Debug\net10.0\studentPredictionSystem.exe
+D:\Documents\vscode101\C# notes\studentPredictionSystem\bin\Debug\net10.0\studentPredictionSystem.deps.json
+D:\Documents\vscode101\C# notes\studentPredictionSystem\bin\Debug\net10.0\studentPredictionSystem.runtimeconfig.json
+D:\Documents\vscode101\C# notes\studentPredictionSystem\bin\Debug\net10.0\studentPredictionSystem.dll
+D:\Documents\vscode101\C# notes\studentPredictionSystem\bin\Debug\net10.0\studentPredictionSystem.pdb
+D:\Documents\vscode101\C# notes\studentPredictionSystem\obj\Debug\net10.0\studentPredictionSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\vscode101\C# notes\studentPredictionSystem\obj\Debug\net10.0\studentPredictionSystem.AssemblyInfoInputs.cache
+D:\Documents\vscode101\C# notes\studentPredictionSystem\obj\Debug\net10.0\studentPredictionSystem.AssemblyInfo.cs
+D:\Documents\vscode101\C# notes\studentPredictionSystem\obj\Debug\net10.0\studentPredictionSystem.csproj.CoreCompileInputs.cache
+D:\Documents\vscode101\C# notes\studentPredictionSystem\obj\Debug\net10.0\studentPredictionSystem.dll
+D:\Documents\vscode101\C# notes\studentPredictionSystem\obj\Debug\net10.0\refint\studentPredictionSystem.dll
+D:\Documents\vscode101\C# notes\studentPredictionSystem\obj\Debug\net10.0\studentPredictionSystem.pdb
+D:\Documents\vscode101\C# notes\studentPredictionSystem\obj\Debug\net10.0\studentPredictionSystem.genruntimeconfig.cache
+D:\Documents\vscode101\C# notes\studentPredictionSystem\obj\Debug\net10.0\ref\studentPredictionSystem.dll
